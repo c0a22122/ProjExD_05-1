@@ -94,6 +94,8 @@ class Beam(pg.sprite.Sprite):
             self.kill()
 
 
+
+
 class Enemy(pg.sprite.Sprite):
     """
     敵Surfaceを生成する
